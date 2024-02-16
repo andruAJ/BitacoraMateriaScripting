@@ -1,0 +1,5 @@
+BitacoraMateriaScripting
+
+Monedas (ubicaión)
+
+Enemigos (ubicación)
